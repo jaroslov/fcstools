@@ -28,4 +28,4 @@ make FCSxToHR
 
 Builds fcstofchr and fchrtofcs
 
-All of the source code is released under the GPL2, but the initial copyrights all are reserved to Jacob N. Smith. This code is used in internal projects; these projects are patent-encumbered, although this code is not; the code for those projects is closed-source and proprietary. Only those projects which I personally approve are allowed to use variants of the copyright which are not GPL2.
+All of the source code is released under the ~~GPL2~~ BSD 2-clause, but the initial copyrights all are reserved to Jacob N. Smith. This code is used in internal projects; these projects are patent-encumbered, although this code is not; the code for those projects is closed-source and proprietary.
